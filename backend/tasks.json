@@ -1,0 +1,36 @@
+{
+  "to-do": {
+    "task-1747663234152-3juwd3": {
+      "id": "task-1747663234152-3juwd3",
+      "title": "Fondue",
+      "description": "Eat some fondue",
+      "created_at": 1747663234.152225,
+      "updated_at": 1747663240.8752618
+    },
+    "task-1747663310169-tdmmop": {
+      "id": "task-1747663310169-tdmmop",
+      "title": "Make the To-Do app",
+      "description": "Use FastAPI and React with docker",
+      "created_at": 1747663310.1697066,
+      "updated_at": 1747663706.5902889
+    }
+  },
+  "in-progress": {
+    "task-1747663273129-64spxr": {
+      "id": "task-1747663273129-64spxr",
+      "title": "Fix old Acer laptop",
+      "description": "Add 8GB RAM and change to 240GB SSD",
+      "created_at": 1747663273.1294458,
+      "updated_at": 1747663779.944126
+    }
+  },
+  "done": {
+    "task-1747663322798-y4m8e3": {
+      "id": "task-1747663322798-y4m8e3",
+      "title": "14hr sleep",
+      "description": "Get a 14hr sleep this Saturday",
+      "created_at": 1747663322.798367,
+      "updated_at": 1747663777.4532106
+    }
+  }
+}
