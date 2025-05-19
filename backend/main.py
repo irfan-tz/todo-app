@@ -12,7 +12,7 @@ app = FastAPI(title="Task Board API", version="1.0.0")
 
 # CORS configuration
 origins = [
-    "https://todo-frontend-sepia-nine.vercel.app",
+    "https://127.0.0.1:5173",
 ]
 
 app.add_middleware(
